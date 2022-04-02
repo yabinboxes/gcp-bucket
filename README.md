@@ -1,2 +1,1 @@
-# gcp-bucket
-create a gcp bucket
+# pulumi-gcp-cloud-run
